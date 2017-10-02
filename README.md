@@ -1,5 +1,6 @@
 # KMeans-Compressor
-Repository to contain the code for compressing image files using Principal Component Analysis
+
+##Repository to contain the code for compressing image files using KMeans Clustering
 
 We find the the 16 dominant colors in the image and try to represent the original image using just these 16 colors !!
 
