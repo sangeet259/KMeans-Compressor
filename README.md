@@ -1,6 +1,6 @@
 # KMeans-Compressor
 
-##Repository to contain the code for compressing image files using KMeans Clustering
+## Repository to contain the code for compressing image files using KMeans Clustering
 
 We find the the 16 dominant colors in the image and try to represent the original image using just these 16 colors !!
 
@@ -33,4 +33,4 @@ Example Output ::
 ![alt text](./images/comp_cat.jpg)
 
 
-##And thats almost 6 times resuction in size !!
+## And thats almost 6 times reduction in size !!
